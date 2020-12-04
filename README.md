@@ -1,3 +1,10 @@
+output looks like(it might vary based on your screen sizes)
+https://barna-code.github.io/newton-s-cradle-working/
+
+
+
+
+
 1. IN BOB.JS:
 instead of ellipseMode(radius) using ellipseMode(center)-The default mode (CENTER) uses the first two parameters as the center,The RADIUS mode is the same, except that the last two parameters specify the radius instead of the diameter. 
 
