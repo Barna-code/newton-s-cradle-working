@@ -14,3 +14,5 @@ The . offset() method allows us to retrieve the current position of an element (
 The Matter.Render module is a simple HTML5 canvas based renderer for visualising instances of Matter.Engine. It is intended for development and debugging purposes, but may also be suitable for simple games. It includes a number of drawing options including wireframe, vector with support for sprites and viewports.
 
 more info: https://brm.io/matter-js/docs/classes/Render.html
+
+3.how the bobs are aligned to the roof and rope: check out  the code; and do the calculations
