@@ -1,3 +1,5 @@
+the roof will be easy to make,so make the roof and start with the rope and the bob in the middle
+
 output looks like(it might vary based on your screen sizes)
 https://barna-code.github.io/newton-s-cradle-working/
 
@@ -16,3 +18,4 @@ The Matter.Render module is a simple HTML5 canvas based renderer for visualising
 more info: https://brm.io/matter-js/docs/classes/Render.html
 
 3.how the bobs are aligned to the roof and rope: check out  the code; and do the calculations
+
